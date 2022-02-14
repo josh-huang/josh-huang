@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=flat" alt="josh-huang" /> </p>
 
+- 🌱 I’m currently study Computing Science at Singapore Institute of Technology 
+- 
 - 🌱 I’m currently learning **Mobile App Development, MySQL, JavaScript**
 
 - 💬 Ask me about **Python, C**
