@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joshhuang1999@gmail.com/ 2001792@sit.singaporetech.edu.sg**
 
-- ⚡ Fun fact **I like coding, playing Dota2 and card flourishing:) Razer Forever**
+- ⚡ Fun fact **I like coding, playing Dota2 and card flourishing:) Razer and Evil Geniuses Forever**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
