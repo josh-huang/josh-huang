@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently study Computing Science at Singapore Institute of Technology 
 
-- 🌱 I’m currently learning **Mobile App Development, MySQL, JavaScript**
+- 🌱 I’m currently learning **Data Analytics and Distributed & Cloud Computing**
 
 - 💬 Ask me about **Python, C**
 
