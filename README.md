@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=flat" alt="josh-huang" /> </p>
 
-- 🌱 I’m currently study Computing Science at Singapore Institute of Technology 
+- 🌱 I’m currently study Bachelor of Science with Honours in Computing Science Degreee at Singapore Institute of Technology & University of Glasgow
 
 - 🌱 I’m currently learning **Data Analytics and Distributed & Cloud Computing**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joshhuang1999@gmail.com/ 2001792@sit.singaporetech.edu.sg**
 
-- ⚡ Fun fact **I like coding, playing Dota2 and card flourishing:) Razer and Evil Geniuses Forever**
+- ⚡ Fun fact **I like coding, playing Dota2 and card flourishing:) Razer and Evil Geniuses Fan Forever**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
