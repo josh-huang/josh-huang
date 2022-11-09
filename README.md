@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Josh Huang Jiashu</h1>
+<h1 align="center">Hi 👋, I'm Joshua Huang Jiashu</h1>
 <h3 align="center">A passionate Computer Science student in Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=flat" alt="josh-huang" /> </p>
 
 - 🌱 I’m currently study Bachelor of Science with Honours in Computing Science Degreee at Singapore Institute of Technology & University of Glasgow
 
-- 🌱 I’m currently learning **Data Analytics and Distributed & Cloud Computing**
+- 🌱 I’m currently **doing my internship Program at Concorde Security Pte Ltd**
 
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **Python, Data Structures and Algorithm**
 
 - 📫 How to reach me **joshhuang1999@gmail.com/ 2001792@sit.singaporetech.edu.sg**
 
-- ⚡ Fun fact **I like coding, playing Dota2 and card flourishing:) Razer and Evil Geniuses Fan Forever**
+- ⚡ Fun fact **I like coding, playing Dota2 and watching movies:) True Razer, Arteezy and Evil Geniuses Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
