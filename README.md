@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=flat" alt="josh-huang" /> </p>
 
-- 🌱 I’m currently study Bachelor of Science with Honours in Computing Science Degreee at Singapore Institute of Technology & University of Glasgow
-
 - 🌱 I’m currently **a software enginner working at CWT Globelink Pte Ltd.**
 
 - 💬 Ask me about **Python, PL/SQL, Data Structures and Algorithm**
