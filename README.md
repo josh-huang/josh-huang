@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently study Bachelor of Science with Honours in Computing Science Degreee at Singapore Institute of Technology & University of Glasgow
 
-- 🌱 I’m currently **doing my internship Program at Concorde Security Pte Ltd**
+- 🌱 I’m currently **a software enginner working at CWT Globelink Pte Ltd.**
 
-- 💬 Ask me about **Python, Data Structures and Algorithm**
+- 💬 Ask me about **Python, PL/SQL, Data Structures and Algorithm**
 
-- 📫 How to reach me **joshhuang1999@gmail.com/ 2001792@sit.singaporetech.edu.sg**
-
-- ⚡ Fun fact **I like coding, playing Dota2 and watching movies:) True Razer, Arteezy and Evil Geniuses Fan**
+- 📫 How to reach me **joshhuang1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
