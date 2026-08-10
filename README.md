@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=300&section=header&text=Hi%20👋,%20I'm%20Joshua%20(Jiashu)&fontSize=65&animation=fadeIn&fontAlignY=38&desc=M.Comp%20in%20Applied%20AI%20@%20NTU%20%7C%20AI%20%26%20Database%20Engineers&descAlignY=51&descAlign=62" alt="Joshua Header" width="100%"/>
-</div>
 
-<div align="center">
+  # Hi 👋, I'm Joshua (Jiashu)
 
-  ### 🚀 Engineering Intelligence into Enterprise & AI Systems
+  ### 🚀 M.Comp in Applied AI @ NTU | AI & Database Engineer
 
   <a href="https://github.com/josh-huang">
     <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="josh-huang" />
