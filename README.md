@@ -2,7 +2,7 @@
 
   # Hi 👋, I'm Joshua (Jiashu)
 
-  ### 🚀 M.Comp in Applied AI @ NTU | AI & Database Engineer
+  ### 🚀 M.Comp in Applied AI @ NTU | AI & Software Engineer
 
   <a href="https://github.com/josh-huang">
     <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="josh-huang" />
