@@ -26,8 +26,7 @@ My background spans enterprise relational database architectures, vector search 
 
 - 🎓 **Education:** M.Comp in Applied Artificial Intelligence @ **NTU** | B.Sc in Computing Science @ **SIT-UoG**
 - 🔭 **I’m currently focusing on:** LLM Fine-tuning (LoRA), Agentic Workflows, Advanced RAG Systems, and Vector Databases.
-- 💼 **Previously at CWT Globelink:** Architected AI Agents for Freight Management Systems (FMS), integrating LLMs with core enterprise Oracle databases via Flask.
-- ⚡ **Fun Fact:** When I'm not tuning models or writing SQL/Python, you can find me collecting **POP MART** figures (Team Labubu & Twinkle Twinkle!), grading **Pokémon & One Piece TCG** cards, or playing **Dota 2**.
+- 💼 **Previously at CWT Globelink:** Maintained and enhanced a large-scale Cloud Freight Management System (CFMS) using PL/SQL and Oracle SQL. Developed backend logic, EDI/API integrations, and database pipelines.
 
 ---
 
