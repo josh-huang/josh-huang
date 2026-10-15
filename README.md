@@ -25,7 +25,7 @@ I am a **Master’s student in Applied Artificial Intelligence** at **Nanyang Te
 My background spans enterprise relational database architectures, vector search systems, and practical AI applications. I specialize in bridging traditional backend systems with modern **Large Language Models (LLMs)**, **RAG architectures**, and **Agentic Workflows**.
 
 - 🎓 **Education:** M.Comp in Applied Artificial Intelligence @ **NTU** | B.Sc in Computing Science @ **SIT-UoG**
-- 🔭 **I’m currently focusing on:** LLM Fine-tuning (LoRA), Agentic Workflows, Advanced RAG Systems, and Vector Databases.
+- 🔭 **I’m currently focusing on:** Agentic Workflows, Advanced RAG Systems.
 - 💼 **Previously at CWT Globelink:** Maintained and enhanced a large-scale Cloud Freight Management System (CFMS) using PL/SQL and Oracle SQL. Developed backend logic, EDI/API integrations, and database pipelines.
 
 ---
