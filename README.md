@@ -9,7 +9,7 @@
   <img src="./assets/typing.svg" alt="M.Comp in Applied AI @ NTU | AI &amp; Software Engineer | Large Language Models (LLMs) | RAG architectures | Agentic Workflows | Advanced RAG Systems" />
 
   <a href="https://github.com/josh-huang">
-    <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="josh-huang" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosh-huang&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%230e75b6&style=for-the-badge" alt="josh-huang" />
   </a>
   <a href="https://stackoverflow.com/users/11252569">
     <img src="https://img.shields.io/badge/Stack%20Overflow-11252569-orange?style=for-the-badge&logo=stackoverflow" />
