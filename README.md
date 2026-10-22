@@ -1,8 +1,12 @@
 <div align="center">
 
+  <img src="./assets/header.svg" width="100%" alt="banner" />
+
   # Hi 👋, I'm Joshua (Jiashu)
 
   ### 🚀 M.Comp in Applied AI @ NTU | AI & Software Engineer
+
+  <img src="./assets/typing.svg" alt="M.Comp in Applied AI @ NTU | AI &amp; Software Engineer | Large Language Models (LLMs) | RAG architectures | Agentic Workflows | Advanced RAG Systems" />
 
   <a href="https://github.com/josh-huang">
     <img src="https://komarev.com/ghpvc/?username=josh-huang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="josh-huang" />
@@ -16,7 +20,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ### 👨‍💻 About Me
 
@@ -28,14 +32,14 @@ My background spans enterprise relational database architectures, vector search 
 - 🔭 **I’m currently focusing on:** Agentic Workflows, Advanced RAG Systems.
 - 💼 **Previously at CWT Globelink:** Maintained and enhanced a large-scale Cloud Freight Management System (CFMS) using PL/SQL and Oracle SQL. Developed backend logic, EDI/API integrations, and database pipelines.
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ### 🏅 Certifications
 
 - **Oracle Cloud Infrastructure 2025 Generative AI Professional**
 - **Oracle AI Vector Search Professional**
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ### 🛠️ Technical Arsenal
 
@@ -68,3 +72,5 @@ My background spans enterprise relational database architectures, vector search 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+<img src="./assets/footer.svg" width="100%" alt="" />

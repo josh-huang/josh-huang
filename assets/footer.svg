@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="100%" role="img" aria-label="Animated footer wave">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e75b6">
+        <animate attributeName="stop-color" values="#0e75b6;#7b5cff;#00c2d1;#0e75b6" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#7b5cff">
+        <animate attributeName="stop-color" values="#7b5cff;#00c2d1;#0e75b6;#7b5cff" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <mask id="m">
+  <path d="M0,30 Q125.0,20 250.0,30 T500.0,30 T750.0,30 T1000.0,30 T1250.0,30 T1500.0,30 T1750.0,30 T2000.0,30 L2000.0,90 L0,90 Z" fill="#ffffff" fill-opacity="0.35">
+    <animateTransform attributeName="transform" type="translate"
+      from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,42 Q95.0,34 190.0,42 T380.0,42 T570.0,42 T760.0,42 T950.0,42 T1140.0,42 T1330.0,42 T1520.0,42 T1710.0,42 T1900.0,42 L1900.0,90 L0,90 Z" fill="#ffffff" fill-opacity="0.45">
+    <animateTransform attributeName="transform" type="translate"
+      from="0 0" to="-380 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,54 Q155.0,42 310.0,54 T620.0,54 T930.0,54 T1240.0,54 T1550.0,54 T1860.0,54 T2170.0,54 T2480.0,54 L2480.0,90 L0,90 Z" fill="#ffffff" fill-opacity="1.0">
+    <animateTransform attributeName="transform" type="translate"
+      from="-620 0" to="0 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+    </mask>
+  </defs>
+  <rect width="1000" height="90" fill="url(#bg)" mask="url(#m)"/>
+</svg>
